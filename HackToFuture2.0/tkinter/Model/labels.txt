@@ -1,0 +1,9 @@
+0 Melric
+1 My name is
+2 Thank you
+3 Hello
+4 Nice
+5 No
+6 Ok
+7 Where
+8 Yes
